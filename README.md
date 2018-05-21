@@ -3,8 +3,8 @@
 * my JavaScript reference book: [repo](https://github.com/jankelearning/javascript), [live](https://jankelearning.github.io/javascript)
 * guided solutions
   * parsons problems: [repo](https://github.com/jankelearning/parsons), [live](https://jankelearning.github.io/parsons)
-  * missing lines: [repo](https://github.com/jankelearning/missing-lines), [live](https://jankelearning.github.io/missing-lines)
   * step throughs: [repo](https://github.com/jankelearning/step-throughs), [live](https://jankelearning.github.io/step-throughs)  
+  * missing lines: [repo](https://github.com/jankelearning/missing-lines), [live](https://jankelearning.github.io/missing-lines)
   * debugs: [repo](https://github.com/jankelearning/debugs), [live](https://jankelearning.github.io/debugs)
 * progressive codewars:
 
