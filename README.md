@@ -2,7 +2,7 @@
 
 * my JavaScript reference book: [repo](https://github.com/jankelearning/javascript), [live](https://jankelearning.github.io/javascript)
 * code whispering
-  * step-throughs: [repo](https://github.com/jankelearning/step-throughs), [live](https://jankelearning.github.io/step-throughs)
+  * [JS Step-Throughs](https://github.com/jankelearning/js-step-throughs)
   * parsons problems: [repo](https://github.com/jankelearning/parsons), [live](https://jankelearning.github.io/parsons)
   * tracing execution: [repo](https://github.com/jankelearning/tracing-execution), [live](https://jankelearning.github.io/tracing-execution)  
   * code completion: [repo](https://github.com/jankelearning/code-completion), [live](https://jankelearning.github.io/code-completion)
