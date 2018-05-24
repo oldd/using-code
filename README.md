@@ -3,11 +3,11 @@
 * my JavaScript reference book: [repo](https://github.com/jankelearning/javascript), [live](https://jankelearning.github.io/javascript)
 * code whispering
   * [JS Step-Throughs](https://github.com/jankelearning/js-step-throughs)
-  * parsons problems: [repo](https://github.com/jankelearning/parsons), [live](https://jankelearning.github.io/parsons)
-  * tracing execution: [repo](https://github.com/jankelearning/tracing-execution), [live](https://jankelearning.github.io/tracing-execution)  
-  * code completion: [repo](https://github.com/jankelearning/code-completion), [live](https://jankelearning.github.io/code-completion)
-  * worked examples: [repo](https://github.com/jankelearning/worked-examples), [live](https://jankelearning.github.io/worked-examples)
-  * debugging: [repo](https://github.com/jankelearning/debugging), [live](https://jankelearning.github.io/debugging)
+  * [Parsons Problems](https://github.com/jankelearning/parsons)
+  * [Code Completion](https://github.com/jankelearning/code-completion)
+  * [Worked Examples](https://github.com/jankelearning/worked-examples)
+  * [Tracing Execution](https://github.com/jankelearning/tracing-execution)
+  * [Debugging](https://github.com/jankelearning/debugging)
 * progressive codewars:
   * V1: [repo](https://github.com/jankelearning/codewars-v1/), [live](https://jankelearning.github.io/codewars-v1/) 
   * V2: [repo](https://github.com/jankelearning/codewars-v2/), [live](https://jankelearning.github.io/codewars-v2/) 
